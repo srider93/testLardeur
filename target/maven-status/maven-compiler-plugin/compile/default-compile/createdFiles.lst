@@ -1,0 +1,7 @@
+org\selenium\test\lardeur\HomePage.class
+org\selenium\test\lardeur\LardeurTeteDeMort.class
+org\selenium\test\lardeur\GenericPage.class
+org\selenium\test\lardeur\SearchLardeur.class
+org\selenium\test\lardeur\StatChausse.class
+org\selenium\test\lardeur\App.class
+org\selenium\test\lardeur\StatChahuteur.class
